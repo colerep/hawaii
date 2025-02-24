@@ -41,23 +41,46 @@ def create_restaurant_database():
                     "name": restaurant,
                     "latitude": location.latitude,
                     "longitude": location.longitude,
-                    "address": location.address
+                    "address": location.address,
+                    "has_coordinates": True
                 })
                 print(f"✓ Found coordinates for {restaurant}")
             else:
-                print(f"✗ Could not find coordinates for {restaurant}")
+                # Add restaurant with unknown coordinates
+                restaurant_data.append({
+                    "name": restaurant,
+                    "latitude": None,  # Using None for unknown coordinates
+                    "longitude": None,
+                    "address": f"{restaurant}, Honolulu, Hawaii (exact location unknown)",
+                    "has_coordinates": False
+                })
+                print(f"⚠ Could not find coordinates for {restaurant}, adding with unknown location")
             
             # Respect rate limiting
             time.sleep(1)
         
         except Exception as e:
-            print(f"✗ Error processing {restaurant}: {e}")
+            # Add restaurant with unknown coordinates even when an error occurs
+            restaurant_data.append({
+                "name": restaurant,
+                "latitude": None,
+                "longitude": None,
+                "address": f"{restaurant}, Honolulu, Hawaii (exact location unknown)",
+                "has_coordinates": False
+            })
+            print(f"✗ Error processing {restaurant}: {e}, adding with unknown location")
     
     # Save as JSON
     with open("restaurants.json", "w") as f:
         json.dump(restaurant_data, f, indent=2)
     
-    print(f"\nSaved {len(restaurant_data)} restaurants to restaurants.json")
+    # Count restaurants with and without coordinates
+    with_coords = sum(1 for r in restaurant_data if r.get("has_coordinates", False))
+    without_coords = len(restaurant_data) - with_coords
+    
+    print(f"\nSaved {len(restaurant_data)} restaurants to restaurants.json:")
+    print(f"  - {with_coords} restaurants with coordinates")
+    print(f"  - {without_coords} restaurants with unknown locations")
     print("You can now use this JSON file with your GitHub Pages website.")
 
 if __name__ == "__main__":
