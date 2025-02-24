@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Egghead Cafe",
+    "latitude": 21.3233297,
+    "longitude": -157.8742632,
+    "address": "Egghead Cafe, Dillingham Boulevard, Iwilei, Honolulu, Honolulu County, Hawaii, 96817, United States"
+  },
+  {
+    "name": "Liliha Bakery",
+    "latitude": 21.3966826,
+    "longitude": -157.97753139174014,
+    "address": "Liliha Bakery, 1000, Kamehameha Highway, Pearl Highlands, Pearl City, Honolulu County, Hawaii, 96782, United States"
+  },
+  {
+    "name": "Chau's Fresh Fruit",
+    "latitude": 21.3128623,
+    "longitude": -157.8627516,
+    "address": "Chau\u2019s Fresh Fruit, North Hotel Street, The Arts District, Chinatown, Honolulu, Honolulu County, Hawaii, 96808, United States"
+  },
+  {
+    "name": "Fook Lam",
+    "latitude": 21.31452,
+    "longitude": -157.8612973,
+    "address": "Fook Lam Restaurant, College Walk, The Arts District, Chinatown, Honolulu, Honolulu County, Hawaii, 96817, United States"
+  },
+  {
+    "name": "Senia",
+    "latitude": 21.311401,
+    "longitude": -157.8635191,
+    "address": "Senia, North King Street, The Arts District, Chinatown, Honolulu, Honolulu County, Hawaii, 96808, United States"
+  },
+  {
+    "name": "H-Mart Kaka'ako",
+    "latitude": 21.2999984,
+    "longitude": -157.8604361,
+    "address": "H Mart, 458, Keawe Street, Kakaako Waterfront, Kaka\u2018ako, Honolulu, Honolulu County, Hawaii, 96813, United States"
+  },
+  {
+    "name": "Highway Inn",
+    "latitude": 21.297622,
+    "longitude": -157.8614668,
+    "address": "Highway Inn, 680, Ala Moana Boulevard, Kakaako Waterfront, Kaka\u2018ako, Honolulu, Honolulu County, Hawaii, 96813, United States"
+  },
+  {
+    "name": "Scratch Kitchen",
+    "latitude": 21.3116168,
+    "longitude": -157.862903,
+    "address": "Scratch Kitchen & Bake Shop, 1030, Smith Street, The Arts District, Chinatown, Honolulu, Honolulu County, Hawaii, 96817, United States"
+  },
+  {
+    "name": "Purv\u00e9 Donut Stop",
+    "latitude": 21.2792948,
+    "longitude": -157.7872891,
+    "address": "Purv\u00e9 Donut Stop, Keanu Street, Waialae-Kahala, East Honolulu, Honolulu, Honolulu County, Hawaii, 96821, United States"
+  },
+  {
+    "name": "Foodland Farms",
+    "latitude": 21.400667900000002,
+    "longitude": -157.97504937445956,
+    "address": "Foodland Farms, Hoola Place, Hale Ola, Pearl City, Honolulu County, Hawaii, 96782, United States"
+  },
+  {
+    "name": "Island Vintage Coffee",
+    "latitude": 21.2784576,
+    "longitude": -157.828538,
+    "address": "Island Vintage Coffee, Kal\u0101kaua Avenue, Kalakaua Shopping District, Waik\u012bk\u012b, Honolulu, Honolulu County, Hawaii, 96815, United States"
+  },
+  {
+    "name": "Jejubing Dessert Cafe",
+    "latitude": 21.2902602,
+    "longitude": -157.8437496,
+    "address": "Jejubing Dessert Cafe, Ala Moana Boulevard, Ala Moana, Honolulu, Honolulu County, Hawaii, 96841, United States"
+  },
+  {
+    "name": "Tane Vegan Izakaya",
+    "latitude": 21.2960824,
+    "longitude": -157.8283071,
+    "address": "Tane Vegan Izakaya, 2065, South Beretania Street, Moiliili, McCully, Honolulu, Honolulu County, Hawaii, 96826, United States"
+  },
+  {
+    "name": "Morning Glass Coffee",
+    "latitude": 21.310295,
+    "longitude": -157.8088632,
+    "address": "Morning Glass Coffee + Cafe, 2955, East Manoa Road, M\u0101noa, East Honolulu, Honolulu, Honolulu County, Hawaii, 96822, United States"
+  },
+  {
+    "name": "Honolulu Cookie Company",
+    "latitude": 21.2773228,
+    "longitude": -157.8272869,
+    "address": "Honolulu Cookie Company, 2335, Kal\u0101kaua Avenue, Kalakaua Shopping District, Waik\u012bk\u012b, Honolulu, Honolulu County, Hawaii, 96815, United States"
+  },
+  {
+    "name": "Azure",
+    "latitude": 21.2769978,
+    "longitude": -157.8290836,
+    "address": "Azure Restaurant & Bar, 2259, Kal\u0101kaua Avenue, Kalakaua Shopping District, Waik\u012bk\u012b, Honolulu, Honolulu County, Hawaii, 96815, United States"
+  },
+  {
+    "name": "Blue Note Hawaii",
+    "latitude": 21.27715,
+    "longitude": -157.8276707,
+    "address": "Blue Note Hawaii, 2335, Kal\u0101kaua Avenue, Kalakaua Shopping District, Waik\u012bk\u012b, Honolulu, Honolulu County, Hawaii, 96815, United States"
+  },
+  {
+    "name": "Moana Surfrider",
+    "latitude": 21.276499,
+    "longitude": -157.82688520297262,
+    "address": "Moana Surfrider, 2365, Kal\u0101kaua Avenue, Kalakaua Shopping District, Waik\u012bk\u012b, Honolulu, Honolulu County, Hawaii, 96815, United States"
+  },
+  {
+    "name": "Barefoot Beach Cafe",
+    "latitude": 21.2678942,
+    "longitude": -157.8225004,
+    "address": "Barefoot Beach Cafe, 2699, Kal\u0101kaua Avenue, Waik\u012bk\u012b, Honolulu, Honolulu County, Hawaii, 96815, United States"
+  },
+  {
+    "name": "Tonkatsu Tamafuji",
+    "latitude": 21.2750017,
+    "longitude": -157.8153438,
+    "address": "TONKATSU TAMAFUJI KAPAHULU, 449, Kapahulu Avenue, Kapahulu, East Honolulu, Honolulu, Honolulu County, Hawaii, 96815, United States"
+  },
+  {
+    "name": "Kono's Honolulu",
+    "latitude": 21.3922017,
+    "longitude": -157.742652,
+    "address": "Kono's, 131, Hekili Street, Enchanted Lake, Kailua, Honolulu County, Hawaii, 96734, United States"
+  },
+  {
+    "name": "Leonard's Bakery",
+    "latitude": 21.28491055,
+    "longitude": -157.8132819810558,
+    "address": "Leonard's Bakery, 933, Kapahulu Avenue, Kapahulu, East Honolulu, Honolulu, Honolulu County, Hawaii, 96186, United States"
+  },
+  {
+    "name": "Breadshop",
+    "latitude": 21.2851712,
+    "longitude": -157.8032809,
+    "address": "The Breadshop, 8th Avenue, P\u0101lolo, East Honolulu, Honolulu, Honolulu County, Hawaii, 96186, United States"
+  },
+  {
+    "name": "The Curb",
+    "latitude": 21.2850544,
+    "longitude": -157.803208,
+    "address": "The Curb Kaimuki, 3408, Waialae Avenue, Kaimuk\u012b, East Honolulu, Honolulu, Honolulu County, Hawaii, 96716, United States"
+  },
+  {
+    "name": "The Local General Store",
+    "latitude": 21.2844073,
+    "longitude": -157.801981,
+    "address": "The Local General Store, 3458, Waialae Avenue, Kaimuk\u012b, East Honolulu, Honolulu, Honolulu County, Hawaii, 96816, United States"
+  },
+  {
+    "name": "Mud Hen Water",
+    "latitude": 21.2845034,
+    "longitude": -157.8021695,
+    "address": "Mud Hen Water, 3452, Waialae Avenue, Kaimuk\u012b, East Honolulu, Honolulu, Honolulu County, Hawaii, 96816, United States"
+  },
+  {
+    "name": "Miro Kaimuki",
+    "latitude": 21.2847028,
+    "longitude": -157.802518,
+    "address": "Miro Kaimuki, 3446, Waialae Avenue, Kaimuk\u012b, East Honolulu, Honolulu, Honolulu County, Hawaii, 96816, United States"
+  },
+  {
+    "name": "Koko Head Cafe",
+    "latitude": 21.2815985,
+    "longitude": -157.7995746,
+    "address": "Koko Head Cafe, 12th Avenue, Kaimuk\u012b, East Honolulu, Honolulu, Honolulu County, Hawaii, 96828, United States"
+  },
+  {
+    "name": "Cowcow's Tea",
+    "latitude": 21.2827329,
+    "longitude": -157.798683,
+    "address": "Cowcow\u2019s Tea, 3620, Waialae Avenue, Kaimuk\u012b, East Honolulu, Honolulu, Honolulu County, Hawaii, 96816, United States"
+  },
+  {
+    "name": "The Surfing Pig",
+    "latitude": 21.282425099999998,
+    "longitude": -157.79871963801338,
+    "address": "The Surfing Pig, Waialae Avenue, Kaimuk\u012b, East Honolulu, Honolulu, Honolulu County, Hawaii, 96828, United States"
+  }
+]
